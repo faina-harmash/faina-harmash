@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @faina-harmash
-- 👀 I’m interested in QA and Front-End.
-- 🌱 I’m currently working as a QA.
+- 👀 I’m interested in QA Automation using JAVA & Selenium.
+- 🌱 I’m currently working as a QA Engeenier.
 - 💞️ I’m looking to collaborate on interesting QA projects
 - 📫 How to reach me faya.garmash.work@gmail.com
 
