@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @faina-harmash
-- 👀 I’m interested in QA Automation using JAVA & Selenium.
+- 👀 I’m interested in QA Automation using JAVA.
 - 🌱 I’m currently working as a QA Engeenier.
 - 💞️ I’m looking to collaborate on interesting QA projects
 - 📫 How to reach me faina.harmash@outlook.com
